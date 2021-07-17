@@ -1,14 +1,15 @@
 # Smart-Walking-Stick
 
-## This is a SMART walking stick project for blind community for ease of navigation in day-to-day life
+### This is a SMART walking stick project for blind community for ease of navigation in day-to-day life
 
-### Problem faced:- 
+## Problem faced:- 
 Visually impaired/blind persons find themselves challenging
 the dangerous paths to go out independently. There are millions of visually
 impaired or blind people in this world who are always need the help from
 others. 
 
-### Solution which we propose:- The SMART electronic walking stick will help the blind person
+## Solution which we propose:- 
+The SMART electronic walking stick will help the blind person
 
 ## Project Description:-
 This is a Smart electronic stick for blind and partially sighted people.
@@ -33,3 +34,6 @@ Problem they face:- Visually impaired/blind persons find themselves challenging
 the dangerous paths to go out independently. There are millions of visually
 impaired or blind people in this world who are always need the help from
 others. 
+
+## Demo of the project: 
+https://youtu.be/J51KuN1kahg
